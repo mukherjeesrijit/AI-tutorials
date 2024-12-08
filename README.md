@@ -5,6 +5,7 @@ My research focuses on developing custom, domain-specific AI solutions tailored 
 * (Theoretical) [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong., and
 * (Theoretical) [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon Prince 
 * (Practical) [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) by Hugging Face
+* (Research) I have been a [research program](https://github.com/mukherjeesrijit/medical-imaging-ai-book/blob/main/research-program.md) for committed aspiring Medical AI researchers/professionals.
 
 # Book Contents
 
