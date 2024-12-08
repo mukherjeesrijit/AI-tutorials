@@ -4,6 +4,11 @@ This program is designed to guide participants through a structured process for 
 
 ---
 
+<p align="center">
+  <img src="program.png" alt="Description" width="400">
+</p>
+
+
 ## **Phase 1: Build Your Core Foundations** (0-2 Months)
 ### **Goals**
 - Develop a strong foundation in essential topics:
