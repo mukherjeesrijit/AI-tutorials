@@ -5,7 +5,7 @@ This program is designed to guide participants through a structured process for 
 ---
 
 <p align="center">
-  <img src="program.png" alt="Description" width="400">
+  <img src="program.png" alt="Description" width="800">
 </p>
 
 
