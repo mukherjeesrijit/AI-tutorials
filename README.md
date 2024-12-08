@@ -40,7 +40,7 @@ I am writing this book on AI in medical imaging. It is for the students and prof
   - 5.2.2 Saliency Maps and Feature Attribution
 - **5.3 Case Studies**
 
-## Chapter 6: Case Studies & Research in Medical Imaging AI
+## Chapter 6: Case Studies & Research Progress
 
 ### **6.1 Disease Detection and Classification**
 - Lung nodule detection in CT scans.
