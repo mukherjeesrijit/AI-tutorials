@@ -13,6 +13,7 @@ The most important and creative questions are about
 
 For the above questions, the following links along with ChatGPT, Books, Research Papers, and the following practical blogs & resources will help.
 
+* [Important Books](https://github.com/mukherjeesrijit/medical-imaging-ai/blob/main/README.md)
 * [Andrej Karpathy's blog](https://karpathy.github.io/)
 * [Andrej's new blog](https://karpathy.ai/zero-to-hero.html)
 * [Andrej's Phd guide](https://karpathy.github.io/2016/09/07/phd/)
@@ -20,3 +21,7 @@ For the above questions, the following links along with ChatGPT, Books, Research
 * [Deep Learning AI courses](https://www.deeplearning.ai/)
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 * [Medical Imaging AI Courses](https://www.linkedin.com/posts/srijit-mukherjee_statistics-machinelearning-deeplearning-activity-7274053104772214784-dv6f?utm_source=share&utm_medium=member_desktop)
+* [Some more books](https://github.com/mukherjeesrijit/blog/blob/main/books/books_for_machine_learning_statistical_learning.md)
+* [Top Medical Imaging AI Journals / Conferences](https://github.com/mukherjeesrijit/blog/blob/main/research/conferences-journals-medical-imaging-ML.md)
+* [Writing a MLStatDSAI paper](https://github.com/mukherjeesrijit/blog/blob/main/research/writing-a-ml-ds-stat-ai-paper.md)
+* [Doing MLStatDSAI Research - Resources](https://github.com/mukherjeesrijit/blog/tree/main/research)
