@@ -19,3 +19,4 @@ For the above questions, the following links along with ChatGPT, Books, Research
 * [fast.ai](https://www.fast.ai/)
 * [Deep Learning AI courses](https://www.deeplearning.ai/)
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+* [Medical Imaging AI Courses](https://www.linkedin.com/posts/srijit-mukherjee_statistics-machinelearning-deeplearning-activity-7274053104772214784-dv6f?utm_source=share&utm_medium=member_desktop)
