@@ -1,13 +1,13 @@
-# Medical Imaging AI Book
+# Medical Imaging AI Book / Course
 
-My research focuses on developing custom, domain-specific AI solutions tailored to particular diseases in medical imaging. Creating these solutions requires a deep understanding of the imaging modality, the underlying disease etiology, and the foundational AI techniques necessary to design domain-enriched models. I am writing this book to guide students and professionals aspiring to build a career in Medical Imaging AI. The book emphasizes deep learning as the primary tool and medical imaging as the core data source. This practical guide is rooted in foundational principles, key topics, and cutting-edge research in medical imaging AI. To deepen your understanding, I recommend referring to the following resources, which are highly valuable for building your expertise:
+This is to remind me that a book/course would be helpful for the learners. Haha! Nevertheless, my research focuses on developing custom, domain-specific AI solutions tailored to particular diseases in medical imaging. Creating these solutions requires a deep understanding of the imaging modality, the underlying disease etiology, and the foundational AI techniques necessary to design domain-enriched models. I am writing this book to guide students and professionals aspiring to build a career in Medical Imaging AI. The book emphasizes deep learning as the primary tool and medical imaging as the core data source. This practical guide is rooted in foundational principles, key topics, and cutting-edge research in medical imaging AI. To deepen your understanding, I recommend referring to the following resources, which are highly valuable for building your expertise:
 
 * (Theoretical) [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong., and
 * (Theoretical) [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon Prince 
 * (Practical) [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) by Hugging Face
 * (Research) I have been building a [research program](https://github.com/mukherjeesrijit/medical-imaging-ai-book/blob/main/research-program/research-program.md) for committed Medical AI researchers/professionals.
 
-# Book Contents
+# Book/Course Contents
 
 ## Chapter 1: Medical Imaging & Datasets
 - 1.1 Overview of Imaging Modalities
