@@ -11,7 +11,7 @@ The most important and creative questions are about
 * Robust, & Interpretable NN
 * Building Domain-Enriched NN
 
-For the above questions, the following links along with ChatGPT, Books, and the following resources will help.
+For the above questions, the following links along with ChatGPT, Books, Research Papers, and the following practical blogs & resources will help.
 
 * [Andrej Karpathy's blog](https://karpathy.github.io/)
 * [Andrej's new blog](https://karpathy.ai/zero-to-hero.html)
