@@ -1,6 +1,6 @@
 # Medical Imaging AI Research Program (1 year)
 
-This program is designed to guide participants through a structured process for learning and contributing to applied AI research, specifically focusing on foundational skills, hands-on projects, and research activities. This research program is inspired by the process of my research journey over time. I have described a part of my research journey in detail [in my newsletter](https://mukherjeesrijit.substack.com/p/25-years-notes-of-my-applied-ai-research). The timeline and steps are outlined below:
+Watch this video. I have discussed [the program in detail](https://youtu.be/dQNGmBTTAWk?si=VK11r9uJcNcWBZHP). This program is designed to guide participants through a structured process for learning and contributing to applied AI research, specifically focusing on foundational skills, hands-on projects, and research activities. This research program is inspired by the process of my research journey over time. I have described a part of my research journey in detail [in my newsletter](https://mukherjeesrijit.substack.com/p/25-years-notes-of-my-applied-ai-research). The timeline and steps are outlined below:
 
 ---
 
