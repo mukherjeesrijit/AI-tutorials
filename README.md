@@ -21,6 +21,8 @@ The live research orientation sessions introduce you to a well-defined goal and 
 
 * [Learning Links & Resources](https://github.com/mukherjeesrijit/medical-ai-research-program/blob/main/research-program/links-resources.md)
 * [Live Sessions / Recordings](https://youtube.com/playlist?list=PLYXB138yx3ioYaiEBB8vAX3FYc2cNHMBj&si=F3zZE6eu96lgeqz7)
+  * (must watch) [Program Orientation Session 1](https://youtu.be/dQNGmBTTAWk?si=N9v9cIGlgDOt9jrs)
+  * (must watch) [Program Orientation Session 2](https://youtu.be/aeeBEQlizCs?si=uXBAfhRjCcWBXu-B)
 * [Written & Organized Content](https://www.linkedin.com/in/srijit-mukherjee/recent-activity/all/)
 * Research Papers for Different Levels (coming soon)
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
