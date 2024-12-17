@@ -15,7 +15,7 @@ To join the program, kindly follow the nine steps in a disciplined manner:
 The live research orientation sessions introduce you to a well-defined goal and research process and help you get connected to new research areas. My LinkedIn or newsletter posts may help you give insights into research, and concepts in a more deeper way. I teach the research process, that I think is the best for me, and for any researcher. Feel free to perturb it for your benefit, and let me know if you think there is a better way out. You can find the following here:
 
 * Learning Links & Resources
-* Live Sessions / Recordings
+* [Live Sessions / Recordings](https://youtube.com/playlist?list=PLYXB138yx3ioYaiEBB8vAX3FYc2cNHMBj&si=F3zZE6eu96lgeqz7)
 * Written & Organized Content
 
 ## My research, and goal
