@@ -1,5 +1,7 @@
 # Medical AI Research Program
 
+*Note:* _This has nothing to do with my affiliation: Pennsylvania State University. This is a personal program of mine to help the community._
+
 To join the program, kindly follow the nine steps in a disciplined manner:
 * Step 1: create a [github profile here](https://github.com/) (because I want to make sure that you have an active github account)
 * Step 2: star this repository (so that I know that you are interested in the program, and you did the first step.)
