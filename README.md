@@ -11,12 +11,14 @@ To join the program, kindly follow the nine steps in a disciplined manner:
 * Step 8: give your best in learning, building, following the program, and doing research.
 * Step 9: when the right opportunity/idea comes to my mind, I will get in touch with you.
 
-## Program Content (organizing the resources)
+## Program Content (organization in progress)
 The live research orientation sessions introduce you to a well-defined goal and research process and help you get connected to new research areas. My LinkedIn or newsletter posts may help you give insights into research, and concepts in a more deeper way. I teach the research process, that I think is the best for me, and for any researcher. Feel free to perturb it for your benefit, and let me know if you think there is a better way out. You can find the following here:
 
-* Learning Links & Resources
+* [Learning Links & Resources](https://github.com/mukherjeesrijit/medical-ai-research-program/blob/main/research-program/links-resources.md)
 * [Live Sessions / Recordings](https://youtube.com/playlist?list=PLYXB138yx3ioYaiEBB8vAX3FYc2cNHMBj&si=F3zZE6eu96lgeqz7)
-* Written & Organized Content
+* [Written & Organized Content](https://www.linkedin.com/in/srijit-mukherjee/recent-activity/all/)
+* Research Papers for Different Levels (coming soon)
+* [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ## My research, and goal
 I firmly believe research is the education of the future. My research focuses on developing domain-enriched AI solutions tailored to particular diseases in medical imaging. Crafting the solutions requires a deep understanding of the imaging, the underlying disease etiology, and the foundational AI techniques. Hence, I am currently focusing on medical imaging for the research direction. I am building this research program so that I can help passionate, and hardworking students to learn, and align with the modern applied AI research processes. This will naturally help me build my research group with interested people with a strong interest in medical AI from backgrounds like Applied Mathematics (Statistics, Economics, Physics), Computer Science, and Medicine. 
