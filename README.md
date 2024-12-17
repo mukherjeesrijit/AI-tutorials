@@ -3,6 +3,11 @@
 To join the program, kindly follow the nine steps in a disciplined manner:
 * Step 1: create a [github profile here](https://github.com/) (because I want to make sure that you have an active github account)
 * Step 2: star this repository (so that I know that you are interested in the program, and you did the first step.)
+
+<p align="center">
+  <img src="research-program/star_mark.png" alt="Description" width="800">
+</p>
+
 * Step 3: reach out to me on [LinkedIn](https://www.linkedin.com/in/srijit-mukherjee/) with your github name, your background, and your CV.
 * Step 4: join this [WhatsApp](https://chat.whatsapp.com/B9C74mG0JIgJqFyNWbMOFO) group, here. I will accept you based on your Steps 1-3.
 * Step 5: get updates on my live sessions and posts in the WhatsApp group.
