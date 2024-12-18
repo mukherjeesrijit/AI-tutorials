@@ -11,6 +11,7 @@ To join the program, kindly follow the nine steps in a disciplined manner:
 </p>
 
 * Step 3: reach out to me on [LinkedIn](https://www.linkedin.com/in/srijit-mukherjee/) with your github name, your background, and your CV.
+  * Step 3.1: Watch [the recordings here for the Program Orientation](https://youtube.com/playlist?list=PLYXB138yx3ioYaiEBB8vAX3FYc2cNHMBj&si=F3zZE6eu96lgeqz7).
 * Step 4: join this [WhatsApp](https://chat.whatsapp.com/B9C74mG0JIgJqFyNWbMOFO) group, here. I will accept you based on your Steps 1-3.
 * Step 5: get updates on my live sessions and posts in the WhatsApp group.
 * Step 6: discuss in the group with peers, who have the same goal as you.
