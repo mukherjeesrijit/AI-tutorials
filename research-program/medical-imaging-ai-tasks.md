@@ -1,6 +1,6 @@
-# Medical Imaging Problems
+# Medical Imaging AI Tasks
 
-Medical imaging problems refer to challenges and tasks in analyzing medical images for diagnosis, treatment planning, and research. These problems often require advanced techniques, such as computer vision, deep learning, and image processing, due to the complexity and variability in medical images. Below are the main categories and specific examples of medical imaging problems:
+Medical imaging AI consists of tasks in analyzing medical images for diagnosis, treatment planning, and research. These problems often require advanced techniques, such as computer vision, deep learning, and image processing, due to the complexity and variability in medical images. Below are the main categories and specific examples of medical imaging problems:
 
 ---
 
