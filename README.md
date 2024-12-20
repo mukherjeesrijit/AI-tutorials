@@ -28,7 +28,7 @@ The live research orientation sessions introduce you to a well-defined goal and 
   * (must watch) [Program Orientation Session 2](https://youtu.be/aeeBEQlizCs?si=uXBAfhRjCcWBXu-B)
 * [Written & Organized Content](https://www.linkedin.com/in/srijit-mukherjee/recent-activity/all/)
 * Research Papers for Different Levels (coming soon)
-* [Kaggle Competitions](https://www.kaggle.com/competitions)
+* [Kaggle Competitions](https://www.kaggle.com/competitions) / [Grand Challenges](https://grand-challenge.org/) 
 
 ## My research, and goal
 I firmly believe research is the education of the future. My research focuses on developing domain-enriched AI solutions tailored to particular diseases in medical imaging. Crafting the solutions requires a deep understanding of the imaging, the underlying disease etiology, and the foundational AI techniques. Hence, I am currently focusing on medical imaging for the research direction. I am building this research program so that I can help passionate, and hardworking students to learn, and align with the modern applied AI research processes. This will naturally help me build my research group with interested people with a strong interest in medical AI from backgrounds like Applied Mathematics (Statistics, Economics, Physics), Computer Science, and Medicine. 
