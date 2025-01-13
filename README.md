@@ -1,6 +1,8 @@
-# Medical AI Research Program
+# Medical AI Community
 
-*Note:* _This has nothing to do with my affiliation: Pennsylvania State University. This is a personal program of mine to help the community._
+*Note:* _This has nothing to do with my affiliation: Pennsylvania State University. This is a personal program of mine to help the medical AI community._
+
+The goal of the medical AI community 
 
 To join the program, kindly follow the nine steps in a disciplined manner:
 * Step 1: create a [github profile here](https://github.com/) (because I want to make sure that you have an active github account)
@@ -14,9 +16,9 @@ To join the program, kindly follow the nine steps in a disciplined manner:
   * Step 3.1: Watch [the recordings here for the Program Orientation](https://youtube.com/playlist?list=PLYXB138yx3ioYaiEBB8vAX3FYc2cNHMBj&si=F3zZE6eu96lgeqz7).
 * Step 4: join this [WhatsApp](https://chat.whatsapp.com/B9C74mG0JIgJqFyNWbMOFO) group, here. I will accept you based on your Steps 1-3.
 * Step 5: get updates on my live sessions and posts in the WhatsApp group.
-* Step 6: discuss in the group with peers, who have the same goal as you.
+* Step 6: discuss in the group with peers with the same goal as you.
 * Step 7: read, & interact with me on my content, and live sessions. (that's the way, I remember your name.)
-* Step 8: give your best in learning, building, following the program, and doing research.
+* Step 8: give your best in learning, building, following the program, and researching.
 * Step 9: when the right opportunity/idea comes to my mind, I will get in touch with you.
 
 ## Program Content (organization in progress)
