@@ -11,7 +11,8 @@
 * Start here with a vision AI tutorial.
 * Then, go on to the [reading course](https://github.com/mukherjeesrijit/interpretable-ai/blob/main/reading-course.md).
 * More tutorials and reading courses are coming, soon.
-
+* Want specific to medical or domain-specific Interpretable AI? Email me.
+ 
 ---
 
 ## What is the goal?
