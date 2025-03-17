@@ -26,4 +26,5 @@ Please read it sequentially.
 * Interpretability Challenges: https://www.anthropic.com/research/engineering-challenges-interpretability
 * Chris Olah’s Blog: https://colah.github.io/about.html
 * Resource from Distill Journal: https://distill.pub/ 
-* https://www.neelnanda.io/mechanistic-interpretability   
+* https://www.neelnanda.io/mechanistic-interpretability
+* https://www.alignmentforum.org/
