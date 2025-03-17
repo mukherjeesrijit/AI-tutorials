@@ -8,7 +8,7 @@
 
 ## How to start?
 
-* Start here with a vision AI tutorial.
+* Start here with a [vision interpretable ai tutorial](https://github.com/mukherjeesrijit/interpretable-ai/blob/main/vision-interpretable-ai-tutorial-1.ipynb).
 * Then, go on to the [reading course](https://github.com/mukherjeesrijit/interpretable-ai/blob/main/reading-course.md).
 * More tutorials and reading courses are coming, soon.
 * Want specific to medical or domain-specific Interpretable AI? Email me.
