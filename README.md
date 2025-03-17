@@ -1,5 +1,11 @@
 # Interpretable AI 
 
+* [Join this WhatsApp community](https://chat.whatsapp.com/Ltny00USikU1JEuVArJHwW) for discussion & access to micro content.
+* ⭐ Star this repository if you find enough value, and use it for your work.
+* If you like the repository, or if you want me to add a specific aspect to this repository, send an email to me support@srijitmukherjee.com.
+
+---
+
 *What is the goal?*
 
 This repository is directed toward building tutorials, resources, research papers, and code bases in pytorch for interpretable AI methodologies. My goal is to help everyone build a non-black-box AI and fully understand and look inside the model, one is creating. AI is an artificial brain, that we are striving towards. We don't understand our own brain, but at least we should strive to build the brain, we are building with our own hands, right?
