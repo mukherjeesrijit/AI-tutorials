@@ -28,3 +28,4 @@ Please read it sequentially.
 * Resource from Distill Journal: https://distill.pub/ 
 * https://www.neelnanda.io/mechanistic-interpretability
 * https://www.alignmentforum.org/
+* https://www.alignmentforum.org/w/interpretability-ml-and-ai
