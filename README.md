@@ -2,7 +2,7 @@
 
 * [Join this WhatsApp community](https://chat.whatsapp.com/Ltny00USikU1JEuVArJHwW) for discussion & access to micro content.
 * ⭐ Star this repository if you find enough value, and use it for your work.
-* If you like the repository, or if you want me to add a specific aspect to this repository, send an email to me support@srijitmukherjee.com.
+* If you want me to add something to it, email me at support@srijitmukherjee.com.
 
 ---
 
