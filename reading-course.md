@@ -1,5 +1,11 @@
 # Interpretability AI Reading Course
 
+---
+
+Please read it sequentially.
+
+---
+
 * https://papers.baulab.info/ 
 * https://distill.pub/2017/feature-visualization/
 * https://distill.pub/2017/aia/
